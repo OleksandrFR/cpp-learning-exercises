@@ -1,0 +1,9 @@
+# Local build outputs
+/main
+/main1
+/main2
+/main3
+/a.out
+*.o
+*.obj
+*.exe
